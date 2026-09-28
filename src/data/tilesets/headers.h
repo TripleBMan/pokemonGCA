@@ -996,6 +996,16 @@ const struct Tileset gTileset_Johto_General =
     .callback = InitTilesetAnim_JohtoGeneral,
 };
 
+const struct Tileset gTileset_HoennGeneral = {
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_HoennGeneral,
+    .palettes = gTilesetPalettes_HoennGeneral,
+    .metatiles = gMetatiles_HoennGeneral,
+    .metatileAttributes = gMetatileAttributes_HoennGeneral,
+    .callback = InitTilesetAnim_HoennGeneral,
+};
+
 const struct Tileset gTileset_Kanto_PokemonCenter =
 {
     .isCompressed = TRUE,

@@ -223,6 +223,9 @@ const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/
 const u16 gMetatiles_Johto_General[] = INCBIN_U16("data/tilesets/primary/johto_general/metatiles.bin");
 const u16 gMetatileAttributes_Johto_General[] = INCBIN_U16("data/tilesets/primary/johto_general/metatile_attributes.bin");
 
+const u16 gMetatiles_HoennGeneral[] = INCBIN_U16("data/tilesets/primary/hoenn_general/metatiles.bin");
+const u16 gMetatileAttributes_HoennGeneral[] = INCBIN_U16("data/tilesets/primary/hoenn_general/metatile_attributes.bin");
+
 const u16 gMetatiles_Kanto_PokemonCenter[] = INCBIN_U16("data/tilesets/secondary/kanto_pokemon_center/metatiles.bin");
 const u16 gMetatileAttributes_Kanto_PokemonCenter[] = INCBIN_U16("data/tilesets/secondary/kanto_pokemon_center/metatile_attributes.bin");
 
